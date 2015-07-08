@@ -1,0 +1,8 @@
+{
+    "name": "fluent-calculator",
+    "description": "A calculator with a fluent interface",
+    "version": "1.0.0",
+    "scripts": {
+	"test": "tape 'test/**/*.js' | tap-spec"
+    }
+}
