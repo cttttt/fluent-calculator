@@ -20,7 +20,7 @@ FluentCalculator.prototype.divided_by = function (arg) {
 };
 
 FluentCalculator.prototype.times = function (arg) {
-    this.total *= arg;
+    this.total -= arg;
     return this;
 };
 
