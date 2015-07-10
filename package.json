@@ -6,7 +6,6 @@
 	"test": "tape 'test/**/*.js' | tap-spec"
     },
     "dependencies": {
-
 	"tape": "*"
     }
 }
