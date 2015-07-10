@@ -1,5 +1,5 @@
 var
- test = require("tape"),
+ test = require("tape-catch"),
  FluentCalculator = require("../")
 ;
 
